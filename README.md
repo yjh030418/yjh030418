@@ -26,3 +26,4 @@
 | [ATmega128 침수 방지 시스템](https://github.com/yjh030418/atmega128-flood-defense-system) | HAL 없이 레지스터 수준으로 구현한 침수 감지·차수막 제어 시스템 | ATmega128, C, ADC, Timer, TWI, UART |
 | [열원 추적 3축 짐벌](https://github.com/yjh030418/3axis-heat-tracking-gimbal) | 카메라로 열원을 추적하는 3축 서보 짐벌 (진행 중) | ESP32, MG996R, IMU |
 | [ESP32 WiFi 인원 센싱](https://github.com/yjh030418/esp32-wifi-crowd-sensing) | 공공 WiFi 신호로 실내 밀집도를 추정해 압사를 예방하는 시스템 (아이디어 단계) | ESP32, WiFi Sensing |
+| [ATmega128 Study](https://github.com/yjh030418/atmega128-study) | 빛돌(BITDOL) 동아리에서 익힌 레지스터 수준 MCU 제어 기록 (GPIO, 인터럽트, 타이머/PWM, UART, ADC) | ATmega128, C |
