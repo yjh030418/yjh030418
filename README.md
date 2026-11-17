@@ -6,7 +6,7 @@
 - 🤖 관심 분야: Robotics, Embedded Systems, Vision-based Object Tracking, Learning-based Robot Control
 - 🏆 2026 한이음 드림업 공모전 **동상**
 - 🛠 기구 설계(Fusion 360)부터 펌웨어, ROS2까지 하드웨어 전 과정을 직접 다룹니다.
-- 📫 pipo12340506@gmail.com
+- 📫 hijii03@naver.com
 
 ## Tech Stack
 
