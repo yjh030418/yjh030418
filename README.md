@@ -27,4 +27,4 @@
 | [열원 추적 3축 짐벌](https://github.com/yjh030418/3axis-heat-tracking-gimbal) | 카메라로 열원을 추적하는 3축 서보 짐벌 (진행 중) | ESP32, MG996R, IMU |
 | [ESP32 WiFi 인원 센싱](https://github.com/yjh030418/esp32-wifi-crowd-sensing) | 공공 WiFi 신호로 실내 밀집도를 추정해 압사를 예방하는 시스템 (아이디어 단계) | ESP32, WiFi Sensing |
 | [ATmega128 Study](https://github.com/yjh030418/atmega128-study) | 빛돌(BITDOL) 동아리에서 익힌 레지스터 수준 MCU 제어 기록 (GPIO, 인터럽트, 타이머/PWM, UART, ADC) | ATmega128, C |
-| [PSoC 6 Edge AI](https://github.com/yjh030418/psoc6-edge-ai-motion) | IMU 데이터로 동작 분류 모델을 학습해 MCU에서 실시간 추론 (DGIST MCU 캐프) | PSoC 6, TinyML, DEEPCRAFT |
+| [PSoC 6 Edge AI](https://github.com/yjh030418/psoc6-edge-ai-motion) | IMU 데이터로 동작 분류 모델을 학습해 MCU에서 실시간 추론 (DGIST MCU 캠프) | PSoC 6, TinyML, DEEPCRAFT |
