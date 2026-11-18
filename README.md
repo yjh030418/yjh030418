@@ -16,7 +16,7 @@
 | MCU / Board | ATmega128 (Register-level), Arduino, ESP32, Infineon PSoC 6 (Edge AI), NVIDIA Jetson Orin Nano |
 | Robotics | ROS2 |
 | 3D CAD | Autodesk Fusion 360, AutoCAD |
-| Problem Solving | Baekjoon Online Judge Gold |
+| Problem Solving | Baekjoon Online Judge Silver |
 
 ## Projects
 
