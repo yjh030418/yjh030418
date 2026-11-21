@@ -3,7 +3,7 @@
 경북대학교 전자공학부 학부생입니다.
 로봇과 임베디드 시스템을 직접 설계하고 만들면서 배우고 있습니다.
 
-- 🤖 관심 분야: Robotics, Embedded Systems, Vision-based Object Tracking, Learning-based Robot Control
+- 🤖 관심 분야: Robotics, Physical AI, AMR Navigation & Sensor Fusion, Vision-based Object Tracking, Learning-based Robot Control
 - 🏆 2026 한이음 드림업 공모전 **동상**
 - 🛠 기구 설계(Fusion 360)부터 펌웨어, ROS2까지 하드웨어 전 과정을 직접 다룹니다.
 - 📫 hijii03@knu.ac.kr
